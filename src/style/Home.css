@@ -1,0 +1,12 @@
+.home-card {
+    max-width: 500px;
+    height: max-content;
+    margin: 26px auto;
+}
+
+.create-post {
+    margin: 10px auto;
+    max-width: 500px;
+    text-align: center;
+    padding: 20px;
+}
